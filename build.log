@@ -1,0 +1,129 @@
+Logfile initialized
+[INFO] logfile = /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/builder.py install customTableView /Users/Ajeet/android-sdks /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView com.ajeet 2
+[INFO] Titanium SDK version: 1.8.2 (02/23/12 17:46 59b3a90)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 20 seconds)
+[DEBUG] waited 20.078298 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] com.ajeet installed? False
+[INFO] Copying project resources..
+[INFO] Detected tiapp.xml change (or assets deleted), forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/appicon.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/default.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/app.js => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/customTableView.js => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/customTableView.js
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Angry.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Angry.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/brown.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/brown.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Cheat.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Cheat.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Confuse.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Confuse.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/delete.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/delete.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Dizzy.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Dizzy.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Errr.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Errr.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Happy.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Happy.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Hungry.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Hungry.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Love.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Love.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Sick.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Sick.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/images/Wow.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/images/Wow.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/KS_nav_ui.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/KS_nav_ui.png
+[TRACE] COPYING CREATED FILE: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/KS_nav_views.png => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/KS_nav_views.png
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/CustomtableviewActivity.java to javac build list
+[DEBUG] adding /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/CustomtableviewAppInfo.java to javac build list
+[DEBUG] adding /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/CustomtableviewApplication.java to javac build list
+[DEBUG] adding /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/ApplicationStylesheet.java" "/Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/CustomtableviewActivity.java" "/Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/CustomtableviewAppInfo.java" "/Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/CustomtableviewApplication.java" "/Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/gen/com/ajeet/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/Ajeet/Documents/Titanium Studio Workspace/customTableView/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/Angry.png
+[DEBUG] from resource zip => assets/Resources/images/Cheat.png
+[DEBUG] from resource zip => assets/Resources/images/Confuse.png
+[DEBUG] from resource zip => assets/Resources/images/Dizzy.png
+[DEBUG] from resource zip => assets/Resources/images/Errr.png
+[DEBUG] from resource zip => assets/Resources/images/Happy.png
+[DEBUG] from resource zip => assets/Resources/images/Hungry.png
+[DEBUG] from resource zip => assets/Resources/images/Love.png
+[DEBUG] from resource zip => assets/Resources/images/Sick.png
+[DEBUG] from resource zip => assets/Resources/images/Wow.png
+[DEBUG] from resource zip => assets/Resources/images/brown.png
+[DEBUG] from resource zip => assets/Resources/images/delete.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/customTableView.js
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.012627 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen
