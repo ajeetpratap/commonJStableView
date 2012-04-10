@@ -28,10 +28,11 @@ exports.customTableView = function(param)
     {
         var cancelBtn;
         var row;
+        var myimage;
         if(Ti.Platform.osname !='android')
         {
             cancelBtn = Ti.UI.createButton({
-            image:'images/delete.png',
+            image:'/delete.png',
             width:'32dp',
             height:'32dp',
             style:Titanium.UI.iPhone.SystemButtonStyle.PLAIN,
@@ -39,19 +40,8 @@ exports.customTableView = function(param)
             });
             
             row = Ti.UI.createTableViewRow({height:'70dp', backgroundImage:'images/brown.png', backgroundRepeat:'true'});
-        }
-        else
-        {
-            cancelBtn = Ti.UI.createButton({
-            image:'images/delete.png',
-            width:'32dp',
-            height:'32dp',
-            left : '250dp'
-            });
-            row = Ti.UI.createTableViewRow({backgroundImage:'images/brown.png'});
-        }
-        
-        var myimage = Ti.UI.createImageView({
+            
+             myimage = Ti.UI.createImageView({
             backgroundImage:imageUrl[i],
             top:'5dp',
             width:'64dp',
@@ -62,6 +52,29 @@ exports.customTableView = function(param)
             borderRadius:'7dp'
             
         });
+        }
+        else
+        {
+            cancelBtn = Ti.UI.createButton({
+            image:'images/delete.png',
+            width:'32dp',
+            height:'32dp',
+            left : '250dp'
+            });
+            row = Ti.UI.createTableViewRow({backgroundImage:'images/brown.png'});
+            
+              myimage = Ti.UI.createImageView({
+            backgroundImage:imageUrl[i],
+            top:'5dp',
+            width:'64dp',
+            left: '4dp',
+            height:'64dp'
+           
+            
+        });
+        }
+        
+      
         var rowName = Ti.UI.createLabel({
            text: rowText[i],
            top:'2dp',
